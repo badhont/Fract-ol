@@ -1,7 +1,7 @@
 #fractol
   A real time fractal visualization interface
   
-//## Demo  <img src="fractol_demo.gif" width="500"></img>
+//## Demo // <img src="fractol_demo.gif" width="500"></img>//
 
 ## Built with
   C language, Mlx library
